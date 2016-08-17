@@ -4,7 +4,7 @@
 
 **What's our life**:
 
-![](https://lh3.googleusercontent.com/-EinFwWjANx0/V7S-jdr6TcI/AAAAAAAADrE/2rUG4IK8hCE_K8mW3x38xKb8szleSD3cQCJoC/w563-h325-p-rw/this.is.our.life.png)
+![](https://lh3.googleusercontent.com/gOO_nL86fm7CpLHyzdWq8mfLT8AkBXrbwPRrJBUR6r3q2SMGb7d0vstTUPPpim1yt7Xk40byZQ=w2324-h1453-rw-no)
 
 Example of usage on R markdown, rpubs, github and LabNotes wiki
 ---------------------------------------------------------------
