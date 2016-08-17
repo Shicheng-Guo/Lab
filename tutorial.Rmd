@@ -2,7 +2,7 @@
 title: "Barplot for blue's RNA-seq data in Human Brain"
 author: "Shicheng Guo"
 date: "August 17, 2016"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}

@@ -1,4 +1,4 @@
-setwd("C:\\Users\\shicheng\\Documents\\GitHub\\collaboration\\blue")
+setwd("C:\\Users\\shicheng\\Documents\\GitHub\\Lab")
 
 barplotReAxis<-function(mp){
   mp<-c(0,mp)
