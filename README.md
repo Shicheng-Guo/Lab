@@ -43,7 +43,9 @@ and **LabNotes wiki** to Kun's lab member. I just use the bar plot
 example which I created yesterday for Blue. Blue told me he want to
 build a figure for his future manuscript, just like this one:
 
-    knitr::include_graphics("C:\\Users\\shicheng\\Documents\\GitHub\\Lab\\Cn39rtdUIAAi8n7.png")
+    knitr::include_graphics("./unnamed-chunk-2-1.png")
+    
+    ![](./unnamed-chunk-2-1.png)
 
 <img src="C:\Users\shicheng\Documents\GitHub\Lab\Cn39rtdUIAAi8n7.png" width="800" />
 
