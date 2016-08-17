@@ -4,7 +4,7 @@
 
 **What's our life**:
 
-![](https://lh3.googleusercontent.com/-EinFwWjANx0/V7S-jdr6TcI/AAAAAAAADrE/2rUG4IK8hCE_K8mW3x38xKb8szleSD3cQCJoC/w563-h325-p-rw/this.is.our.life.png)
+![](https://lh3.googleusercontent.com/XAVOuSe9MxpNoPtPrEb2FzUhuO1uwIdM-ACYj3vOtw37Qm6o59wEYMqhPOTXTpB0cfzL0HlOjQ=w2324-h1453-rw-no)
 
 Example of usage on R markdown, rpubs, github and LabNotes wiki
 ---------------------------------------------------------------
@@ -48,7 +48,7 @@ build a figure for his future manuscript, just like this one:
 
     knitr::include_graphics("C:\\Users\\shicheng\\Documents\\GitHub\\Lab\\Cn39rtdUIAAi8n7.png")
 
-![](https://lh3.googleusercontent.com/uCKsHwrUF69cQqvsYq_vCaLTLdx_N7Q5VJA1P7sKrUO0N3ULN_YyiH84io4cz2z2zP9JtL-UVA=w2324-h1453-rw-no)
+<img src="C:\Users\shicheng\Documents\GitHub\Lab\Cn39rtdUIAAi8n7.png" width="800" />
 
 Here is my code:
 
