@@ -1,3 +1,6 @@
+### This is life looks like:
+
+![](https://lh3.googleusercontent.com/uCKsHwrUF69cQqvsYq_vCaLTLdx_N7Q5VJA1P7sKrUO0N3ULN_YyiH84io4cz2z2zP9JtL-UVA=w2324-h1453-rw-no)
 
 **What's our life**:
 
@@ -43,9 +46,7 @@ and **LabNotes wiki** to Kun's lab member. I just use the bar plot
 example which I created yesterday for Blue. Blue told me he want to
 build a figure for his future manuscript, just like this one:
 
-    knitr::include_graphics("./unnamed-chunk-2-1.png")
-    
-    ![](./unnamed-chunk-2-1.png)
+    knitr::include_graphics("C:\\Users\\shicheng\\Documents\\GitHub\\Lab\\Cn39rtdUIAAi8n7.png")
 
 <img src="C:\Users\shicheng\Documents\GitHub\Lab\Cn39rtdUIAAi8n7.png" width="800" />
 
