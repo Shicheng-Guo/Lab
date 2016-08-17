@@ -3,6 +3,7 @@
 ![](https://lh3.googleusercontent.com/uCKsHwrUF69cQqvsYq_vCaLTLdx_N7Q5VJA1P7sKrUO0N3ULN_YyiH84io4cz2z2zP9JtL-UVA=w2324-h1453-rw-no)
 
 **What's our life**:
+![](http://genome-tech.ucsd.edu/LabNotes/index.php/File:2016-08-16-PosControlAmplicon-SizeSelect-After.png)
 
 ![](https://lh3.googleusercontent.com/gOO_nL86fm7CpLHyzdWq8mfLT8AkBXrbwPRrJBUR6r3q2SMGb7d0vstTUPPpim1yt7Xk40byZQ=w2324-h1453-rw-no)
 
