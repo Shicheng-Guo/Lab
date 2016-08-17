@@ -1,5 +1,5 @@
 ---
-title: "barplot for blue"
+title: "Barplot for blue's RNA-seq data in Human Brain"
 author: "Shicheng Guo"
 date: "August 17, 2016"
 output: html_document
@@ -8,6 +8,12 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+**What's our life**:
+
+![](https://lh3.googleusercontent.com/-EinFwWjANx0/V7S-jdr6TcI/AAAAAAAADrE/2rUG4IK8hCE_K8mW3x38xKb8szleSD3cQCJoC/w563-h325-p-rw/this.is.our.life.png)
+
+
 
 ## Example of usage on R markdown, rpubs, github and LabNotes wiki
 
@@ -89,6 +95,9 @@ df<-data.frame(rmpk,cell.labels,group1,group2,group3)
 df<-df[order(df$cell.labels),]
 head(df)
 ```
+
+**Now we are going to focusn on gene: `r genename`**
+
 Okay, the above code is use to collect the data frame. Now, let's do the bar plot.
 
 ```{r,fig.width=10, fig.height=2.5}
